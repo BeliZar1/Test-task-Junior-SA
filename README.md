@@ -56,7 +56,7 @@
 -------------------------------------------------------------------------------------------------------------------------------
 1.1 Пример запроса 
 -------------------------------------------------------------------------------------------------------------------------------
-GET /api/v1/partner-stores?latitude=55.751244&longitude=37.618423&user_id=12345
+GET https://api/partner-stores?latitude=55.751244&longitude=37.618423&user_id=12345
 Host: api.petrushka-green.ru
 Accept: application/json
 Authorization: Bearer <token>
